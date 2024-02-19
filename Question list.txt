@@ -1,1 +1,6 @@
+Q1. Write the sum of whole array , The number of elements would be entered by the user and also the size of array.
+
+
+Q2.Write a program to see if the number is prime or not.
+
 
