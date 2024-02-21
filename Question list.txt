@@ -4,3 +4,15 @@ Q1. Write the sum of whole array , The number of elements would be entered by th
 Q2.Write a program to see if the number is prime or not.
 
 
+Q3. Write a program to see if any number in the array is prime or not;
+
+
+Q4.  Write a program to print the stars in this pattern  
+
+* * *
+  *
+* * * 
+
+
+
+
