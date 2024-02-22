@@ -3,7 +3,7 @@ Q1. Write the sum of whole array , The number of elements would be entered by th
 
 Q2.Write a program to see if the number is prime or not.
 
-
+//////assigment2////////////////
 Q3. Write a program to see if any number in the array is prime or not;
 
 
