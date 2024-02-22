@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "assigment1",
       "request": "launch",
       "mainClass": "assigment1",
