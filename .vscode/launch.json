@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "loops",
+      "request": "launch",
+      "mainClass": "loops",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "conditions_loops",
       "request": "launch",
       "mainClass": "conditions_loops",
