@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "whileloop",
+      "request": "launch",
+      "mainClass": "whileloop",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "loops",
       "request": "launch",
       "mainClass": "loops",
