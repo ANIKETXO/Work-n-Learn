@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "casecheck",
+      "request": "launch",
+      "mainClass": "casecheck",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
+      "name": "largest",
+      "request": "launch",
+      "mainClass": "largest",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "whileloop",
       "request": "launch",
       "mainClass": "whileloop",
