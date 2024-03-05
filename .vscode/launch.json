@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "fibo",
+      "request": "launch",
+      "mainClass": "fibo",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "casecheck",
       "request": "launch",
       "mainClass": "casecheck",
