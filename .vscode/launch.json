@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "calculator",
+      "request": "launch",
+      "mainClass": "calculator",
+      "projectName": "Work-n-Learn_508e5993"
+    },
+    {
+      "type": "java",
       "name": "fibo",
       "request": "launch",
       "mainClass": "fibo",
