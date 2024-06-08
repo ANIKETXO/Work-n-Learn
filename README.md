@@ -1,6 +1,6 @@
 # Work-n-Learn
 ROADMAP
 
-MERA AUKAAT HAI ................ 
+Any where to go faster is walking slowly ................ 
 
 
