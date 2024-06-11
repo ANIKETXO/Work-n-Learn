@@ -8,6 +8,7 @@ class Solution{
 public:
     int evenlyDivides(int N){
        int count = 0;
+       int n=N;
   int digit;
 
   
@@ -15,7 +16,7 @@ public:
     digit = N % 10; 
 
   
-    if (digit != 0 && N % digit == 0) {
+    if (digit != 0 && n % digit == 0) {
       count++; 
     }
 
